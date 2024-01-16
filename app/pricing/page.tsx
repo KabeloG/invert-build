@@ -84,7 +84,7 @@ export default function Page() {
         <h3 className="text-gray-600 text-xl">PRICING</h3>
         <h1 className="text-5xl">Easily organize your work. Start free.</h1>
         <h2 className="text-2xl text-gray-500">
-          Access Invert's features. No credit card required
+          Access Delaware's features. No credit card required
         </h2>
       </section>
 

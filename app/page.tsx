@@ -71,7 +71,7 @@ export default function Home() {
           </h1>
 
           <p className="text-lg md:text-xl mb-10 px-4">
-            Want more efficiency in your organization? Invert is easy for all
+            Want more efficiency in your organization? Delaware is easy for all
             teams to use, so you can deliver quality work, faster
           </p>
 
@@ -155,11 +155,11 @@ export default function Home() {
         >
           <div className="space-y-2">
             <h2 className="text-2xl">
-              80% of Fortune 500 companies use Invert
+              80% of Fortune 500 companies use Delaware
             </h2>
 
             <div className="flex items-center">
-              <h3 className="text-xl">See how customers use Invert</h3>
+              <h3 className="text-xl">See how customers use Delaware</h3>
               <ArrowRight className="h-6 w-6 text-black ml-2" />
             </div>
           </div>
@@ -205,7 +205,7 @@ export default function Home() {
             className="text-4xl
           text-center md:text-6xl"
           >
-            See how teams use Invert
+            See how teams use Delaware
           </h2>
 
           <div className="hidden md:flex space-x-5 md:pt-10">
@@ -275,7 +275,7 @@ export default function Home() {
           py-10 md:pt-20 md:pb-10 text-white items-center"
         >
           <h2 className="text-center text-4xl md:text-6xl">
-            Why companies use Invert
+            Why companies use Delaware
           </h2>
 
           <div className="mx-auto md:w-3/4 px-10">
@@ -306,7 +306,7 @@ export default function Home() {
               </h3>
 
               <p className="hidden md:block md:w-1/2">
-                Invert is rated as a leader in work management by industry
+                Delaware is rated as a leader in work management by industry
                 experts.
               </p>
             </div>
@@ -323,7 +323,7 @@ export default function Home() {
 
               <p className="hidden md:block md:w-1/2">
                 Get tailored support to help your teams easily migrate existing
-                data and adopt Invert.
+                data and adopt Delaware.
               </p>
             </div>
           </div>
@@ -649,7 +649,7 @@ export default function Home() {
 
           <ImageCard
             image="/images/tab-2.webp"
-            title="See Invert in action"
+            title="See Delaware in action"
             actionText="View Demo"
           />
           <ImageCard

@@ -10,14 +10,14 @@ export default function Footer() {
     >
       <div className="flex flex-col items-center justify-center text-center md:pb-20">
         <Image
-          src="/images/invert-white.svg"
+          src="images/delaware-white.svg"
           alt="footer logo"
           width={200}
           height={200}
           className="mb-3 mx-auto"
         />
 
-        <h1 className="flex justify-center text-6xl text-white pb-20 w-2/3 md:px-20">
+        <h1 className="flex justify-center text-6xl text-white mt-5 pb-20 w-2/3 md:px-20">
           Try the #1 software in project and product management
         </h1>
         <button
@@ -31,7 +31,7 @@ export default function Footer() {
       <div className="hidden pt-40 space-x-20 border-t lg:grid lg:grid-cols-6">
         <Link href="/">
           <Image
-            src="/images/invert-white.svg"
+            src="/images/delaware-white.svg"
             alt="Picture of the author"
             width={200}
             height={200}
@@ -39,7 +39,7 @@ export default function Footer() {
         </Link>
 
         <div className="flex flex-col space-y-6 text-gray-200">
-          <h2 className="text-xl pb-10">Invert</h2>
+          <h2 className="text-xl pb-10">Delaware</h2>
           <p className="cursor-pointer">Home</p>
           <p className="cursor-pointer">Product</p>
           <p className="cursor-pointer">What&apos;s New</p>

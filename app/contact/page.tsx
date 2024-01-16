@@ -108,7 +108,7 @@ export default function Page() {
       >
         <h1 className="text-5xl">Talk with our sales team</h1>
         <h3 className="text-xl">
-          Fill out your information and an Invert sales representative will
+          Fill out your information and an Delaware sales representative will
           contact you shortly.
         </h3>
 

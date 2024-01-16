@@ -78,7 +78,7 @@ export default function Page() {
           </h1>
 
           <h2 className="text-2xl">
-            Invert connects company-wide goals to the work needed to achieve
+            Delaware connects company-wide goals to the work needed to achieve
             them—across teams and functions.
           </h2>
 
@@ -103,9 +103,9 @@ export default function Page() {
       </section>
 
       <section className="flex flex-col items-center justify-center py-10 space-y-10">
-        <h2 className="text-5xl">Why Invert?</h2>
+        <h2 className="text-5xl">Why Delaware?</h2>
         <p className="text-2xl text-center">
-          According to JDA, Invert improves employee productivity by 45%.
+          According to JDA, Delaware improves employee productivity by 45%.
         </p>
 
         <div className="text-xl space-y-10 md:flex md:space-y-0 md:space-x-20">
@@ -256,7 +256,7 @@ export default function Page() {
 
       <section className="py-20 md:space-y-20 items-center justify-center flex flex-col">
         <h2 className="text-4xl text-center">
-          80% of Fortune 100 companies use Invert
+          80% of Fortune 100 companies use Delaware
         </h2>
 
         <div className="md:flex md:space-x-20 items-center justify-center">

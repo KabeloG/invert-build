@@ -57,7 +57,7 @@ export default function Navbar() {
       text-white text-lg py-2 space-x-8 relative lg:flex-row max-lg:text-base"
         >
           <span className="max-lg:text-center max-lg:pb-2">
-            Now available: Invert Intelligence has joined the team with a
+            Now available: Delaware Intelligence has joined the team with a
             smarter way to work
           </span>
 
@@ -82,7 +82,7 @@ export default function Navbar() {
         <div className="relative w-40 h-40">
           <Link href="/">
             <Image
-              src="https://cdn.prod.website-files.com/61ed56ae9da9fd7e0ef0a967/61f12dc62123d634759238a3_InvertDark.svg"
+              src="images/delaware-colored.svg"
               alt="logo"
               fill
               className="flex-shrink-0 cursor-pointer"
@@ -106,13 +106,13 @@ export default function Navbar() {
                             href="/"
                           >
                             <Image
-                              src="/images/invert-logo.svg"
+                              src="/images/delaware-colored.svg"
                               alt="logo"
                               width={200}
                               height={200}
                             />
                             <div className="mb-2 mt-4 text-lg font-medium">
-                              Invert
+                              Delaware
                             </div>
                             <p className="text-sm leading-tight text-muted-foreground">
                               The Best Platform for Cross-Functional Work
