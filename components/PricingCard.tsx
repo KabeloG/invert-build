@@ -53,8 +53,8 @@ export default function PricingCard({
 
       <div className="flex flex-col space-y-6">
         <div className="flex flex-col space-y-4">
-          {features.map((feature) => (
-            <div className="flex space-x-2">
+          {features.map((feature, index) => (
+            <div key={index} className="flex space-x-2">
               <Check size={24} />
               <p className="text-gray-500">{feature}</p>
             </div>
