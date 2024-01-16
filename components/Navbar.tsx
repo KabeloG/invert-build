@@ -138,7 +138,7 @@ export default function Navbar() {
                     <NavigationMenuLink
                       className={navigationMenuTriggerStyle()}
                     >
-                      Solutions
+                      Products
                     </NavigationMenuLink>
                   </Link>
                 </NavigationMenuItem>
