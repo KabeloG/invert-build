@@ -124,15 +124,19 @@ export default function Page() {
         md:mx-auto"
       >
         {packages.map(
-          ({
-            title,
-            monthPrice,
-            yearPrice,
-            featuresTitle,
-            features,
-            colourBorder,
-          }) => (
+          (
+            {
+              title,
+              monthPrice,
+              yearPrice,
+              featuresTitle,
+              features,
+              colourBorder,
+            },
+            index
+          ) => (
             <PricingCard
+              key={index}
               title={title}
               monthPrice={monthPrice}
               yearPrice={yearPrice}
